@@ -36,7 +36,7 @@ class MainActivity : ComponentActivity() {
                     ) {
 
                         Image(
-                            painter = painterResource(id = R.drawable.microsoftteams_image),
+                            painter = painterResource(id = R.drawable.logo),
                             contentDescription = "teste",
                             modifier = Modifier.size(250.dp)
                         )
